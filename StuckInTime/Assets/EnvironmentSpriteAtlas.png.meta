@@ -1,17 +1,21 @@
 fileFormatVersion: 2
 guid: a523d3bf712574518a0496287ccbcec6
-timeCreated: 1427917771
+timeCreated: 1427918529
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: EnvironmentSpriteAtlas_0
-    21300002: EnvironmentSpriteAtlas_1
-    21300004: EnvironmentSpriteAtlas_2
-    21300006: EnvironmentSpriteAtlas_3
-    21300008: EnvironmentSpriteAtlas_4
-    21300010: EnvironmentSpriteAtlas_5
-    21300012: EnvironmentSpriteAtlas_6
-    21300014: EnvironmentSpriteAtlas_7
+    21300000: Backround1
+    21300002: Backround2
+    21300004: Backround4
+    21300006: Platform1
+    21300008: Platform2
+    21300010: Platform3
+    21300012: Platform4
+    21300014: Backround3
+    21300016: BackroundMountainsPurple
+    21300018: BackroundMountainsOrange
+    21300020: ForegroundDirt
+    21300022: BackroundMountainsBlue
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -57,7 +61,7 @@ TextureImporter:
   buildTargetSettings: []
   spriteSheet:
     sprites:
-    - name: EnvironmentSpriteAtlas_0
+    - name: BackroundMountainsPurple
       rect:
         serializedVersion: 2
         x: 0
@@ -67,17 +71,17 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: EnvironmentSpriteAtlas_1
+    - name: BackroundMountainsOrange
       rect:
         serializedVersion: 2
         x: 0
-        y: 328
+        y: 329
         width: 512
-        height: 93
+        height: 92
       alignment: 9
       pivot: {x: .503580332, y: .260892779}
-      border: {x: 0, y: 0, z: 0, w: 91}
-    - name: EnvironmentSpriteAtlas_2
+      border: {x: 0, y: 0, z: 0, w: 92}
+    - name: ForegroundDirt
       rect:
         serializedVersion: 2
         x: 0
@@ -87,7 +91,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: EnvironmentSpriteAtlas_3
+    - name: Platform1
       rect:
         serializedVersion: 2
         x: 2
@@ -97,7 +101,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: EnvironmentSpriteAtlas_4
+    - name: Platform2
       rect:
         serializedVersion: 2
         x: 28
@@ -107,7 +111,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: EnvironmentSpriteAtlas_5
+    - name: Platform3
       rect:
         serializedVersion: 2
         x: 54
@@ -117,7 +121,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: EnvironmentSpriteAtlas_6
+    - name: Platform4
       rect:
         serializedVersion: 2
         x: 77
@@ -127,7 +131,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: EnvironmentSpriteAtlas_7
+    - name: BackroundMountainsBlue
       rect:
         serializedVersion: 2
         x: 1
