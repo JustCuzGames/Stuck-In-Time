@@ -1,9 +1,17 @@
 fileFormatVersion: 2
 guid: a523d3bf712574518a0496287ccbcec6
-timeCreated: 1427908587
+timeCreated: 1427917771
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: EnvironmentSpriteAtlas_0
+    21300002: EnvironmentSpriteAtlas_1
+    21300004: EnvironmentSpriteAtlas_2
+    21300006: EnvironmentSpriteAtlas_3
+    21300008: EnvironmentSpriteAtlas_4
+    21300010: EnvironmentSpriteAtlas_5
+    21300012: EnvironmentSpriteAtlas_6
+    21300014: EnvironmentSpriteAtlas_7
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -48,7 +56,87 @@ TextureImporter:
   textureType: 8
   buildTargetSettings: []
   spriteSheet:
-    sprites: []
+    sprites:
+    - name: EnvironmentSpriteAtlas_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 421
+        width: 512
+        height: 91
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EnvironmentSpriteAtlas_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 328
+        width: 512
+        height: 93
+      alignment: 9
+      pivot: {x: .503580332, y: .260892779}
+      border: {x: 0, y: 0, z: 0, w: 91}
+    - name: EnvironmentSpriteAtlas_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 175
+        width: 512
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EnvironmentSpriteAtlas_3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 113
+        width: 24
+        height: 59
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EnvironmentSpriteAtlas_4
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 113
+        width: 24
+        height: 59
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EnvironmentSpriteAtlas_5
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 113
+        width: 21
+        height: 59
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EnvironmentSpriteAtlas_6
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 113
+        width: 19
+        height: 59
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EnvironmentSpriteAtlas_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 236
+        width: 511
+        height: 91
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
   userData: 
   assetBundleName: 
