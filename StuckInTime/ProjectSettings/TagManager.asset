@@ -17,6 +17,11 @@ TagManager:
   - UI
   - 
   - 
+<<<<<<< HEAD
+=======
+  - Menu Items
+  - Environment
+>>>>>>> dde3e50f9d2ea90c359c94a52313fd127879f9df
   - Player
   - 
   - 
@@ -38,8 +43,11 @@ TagManager:
   - 
   - 
   - 
+<<<<<<< HEAD
   - 
   - 
+=======
+>>>>>>> dde3e50f9d2ea90c359c94a52313fd127879f9df
   - 
   m_SortingLayers:
   - name: Default
@@ -49,8 +57,16 @@ TagManager:
     uniqueID: 1093696345
     locked: 0
   - name: Player
+<<<<<<< HEAD
     uniqueID: 1859086223
     locked: 0
   - name: Forground
     uniqueID: 3940858523
     locked: 0
+=======
+    uniqueID: 771169021
+    locked: 0
+  - name: Foreground
+    uniqueID: 1859086223
+    locked: 0
+>>>>>>> dde3e50f9d2ea90c359c94a52313fd127879f9df
